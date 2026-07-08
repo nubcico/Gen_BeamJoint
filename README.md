@@ -3,7 +3,7 @@
 
 ## Inference
 
-The code for training pipeline will be added soon. This page provide inference of the model.
+The code for training pipeline will be added soon. This page provides the inference of the model.
 
 ## Overview
 
